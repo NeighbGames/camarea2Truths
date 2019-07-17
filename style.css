@@ -24,6 +24,10 @@ html, body, canvas {
 	color: black;
 }
 
+canvas {
+	height:95%;
+}
+
 #notSupportedTitle {
 	font-size: 1.8em;
 }
